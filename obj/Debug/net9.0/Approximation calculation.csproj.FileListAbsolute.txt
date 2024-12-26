@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Flow control and function.deps.json
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Flow control and function.runtimeconfig.json
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Flow control and function.exe
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Approximation calculation.exe
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Approximation calculation.deps.json
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Approximation calculation.runtimeconfig.json
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Approximation calculation.dll
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Approximation calculation.pdb
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Flow control and function.dll
+C:\Users\Admin\source\repos\Approximation calculation\bin\Debug\net9.0\Flow control and function.pdb
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approxim.90996363.Up2Date
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.dll
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\refint\Approximation calculation.dll
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.pdb
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\Approximation calculation.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Approximation calculation\obj\Debug\net9.0\ref\Approximation calculation.dll
